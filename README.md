@@ -33,4 +33,4 @@ El juego es para dos jugadores. Cada jugador introduce las coordenadas de la cas
 Las contribuciones son bienvenidas. Para contribuir, por favor abre un issue o realiza un pull request.
 
 ## Licencia
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+Este proyecto está bajo la licencia Apache License Version 2.0, January 2004. Consulta el archivo LICENSE para más detalles.

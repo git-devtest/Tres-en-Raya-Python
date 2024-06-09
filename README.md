@@ -14,3 +14,23 @@ Para instalar y ejecutar este proyecto, sigue los siguientes pasos:
 
 ```bash
 git clone https://github.com/git-devtest/Tres-en-Raya-Python.git
+```
+
+2. Navega al directorio del proyecto:
+```bash
+cd tu-repositorio
+```
+
+3. Ejecuta el script de Python:
+```bash
+python tresenraya.py
+```
+
+## Uso
+El juego es para dos jugadores. Cada jugador introduce las coordenadas de la casilla en la que quiere colocar su ficha. El primer jugador que consiga alinear tres fichas gana.
+
+## Contribuciones
+Las contribuciones son bienvenidas. Para contribuir, por favor abre un issue o realiza un pull request.
+
+## Licencia
+Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
